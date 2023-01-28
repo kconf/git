@@ -1,0 +1,15 @@
+.DS_Store
+
+# Vim
+*.un~
+*~
+.*.swp
+
+# Emacs
+\#*\#
+
+# Project
+.vscode
+.idea
+.autoenv.zsh
+.autoenv_leave.zsh
